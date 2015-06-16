@@ -1,0 +1,2 @@
+# CubIT
+Aplicación base
